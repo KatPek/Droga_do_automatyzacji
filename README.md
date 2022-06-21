@@ -1,5 +1,5 @@
 # MY PORTFOLIO
-About me
+#About me
 My name is Katarzyna Pękala. I am hard working and detail-oriented person with analytical mindset, who is willing to launch a professional career in software quality assurance. In this portfolio I would like to exhibit my technical skills, which I gained through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a junior position in testing.
 Courses
 •	
