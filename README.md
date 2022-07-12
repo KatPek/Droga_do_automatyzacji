@@ -31,8 +31,6 @@ My name is Katarzyna Pękala. I am hard working and detail-oriented person with 
 - Example here: https://drive.google.com/drive/folders/1agtGsbTdszEIp0YdPjD96FhCTvkLm3LV?usp=sharing
 ### Test cases
 - Example here: https://drive.google.com/drive/folders/18cnm1Vij1cKCgl9tKYlpYBflfJTMAKKV?usp=sharing
-### SQL
-	
 ### HTML/CSS
 •	Kodilla's challenge to create valentine's card: https://codepen.io/Pekala/pen/wvpvgqy
 ### REST API
