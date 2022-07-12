@@ -28,7 +28,9 @@ My name is Katarzyna Pękala. I am hard working and detail-oriented person with 
 
 ## My projects
 ### Bugs
+- Example here: https://drive.google.com/drive/folders/1agtGsbTdszEIp0YdPjD96FhCTvkLm3LV?usp=sharing
 ### Test cases
+- Example here: https://drive.google.com/drive/folders/18cnm1Vij1cKCgl9tKYlpYBflfJTMAKKV?usp=sharing
 ### SQL
 	
 ### HTML/CSS
