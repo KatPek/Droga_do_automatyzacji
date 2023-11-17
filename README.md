@@ -23,14 +23,13 @@ I am currently learning Python in preparation for taking my first steps in test 
 -	Postman - testing tool for REST API
 - Testlink, TestRail
 - Pingdom- to monitor site’s uptime and performance
+- Linux(Ubuntu), Windows 
 
 
-## Blogs I read
--	https://testerzy.pl
--	https://wyszkolewas.com.pl
--	http://cherry-it.pl/
--	https://jaktestowac.pl/blog/
--	https://digitallyher.pl/
+## Skills 
+- SQL
+- HTML/ CSS
+- Python- learning in progress
 
 ## My projects
 ### Bugs
