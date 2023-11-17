@@ -1,22 +1,27 @@
 # MY PORTFOLIO
 ## About me
-My name is Katarzyna Pękala. I am hard working and detail-oriented person with analytical mindset, who is eager to expand knowledge in both manual and automation testing. In this portfolio I would like to exhibit my technical skills, which I gained through self-learning and participating in online-courses. I am determined to prove the skills I have already acquired and keep developing in this field. 
-## Courses
-- Learning Jira Software (2019)- LinkedIn learning
-- Postman Essential Training- LinkedIn learning
-- Learning REST APIs- LinkedIn learning
-- API Testing Foundations- LinkedIn learning
-- Introduction to Web APIs- LinkedIn learning
-- Learning Chrome Web Developer Tools- LinkedIn learning
-- SQL Essential Training- LinkedIn learning
+My name is Katarzyna Pękala.I am an ambitious and diligent manual QA professional seeking new opportunities to further develop my skills. I am excited to enhance my expertise in both manual and automation testing.
+With 3 years of experience as a Project Document Controller, I have gained proficiency in quality assurance for project documentation. Additionally, I also possess one year of experience as a manual QA.
+During my previous employment, I served as the sole QA member for two teams: Siet and Integration. 
+In the Site team, I was responsible for the main sites of SALESmanago, as well as landing pages prepared for the marketing team. Additionally, I prepared site reliability reports on a daily basis using the Pingdom tool.
+
+In the Integrations team, I conducted tests on plugins connecting the SALESmanago app with common e-commerce platforms, including Magento 2, Vtex, PrestaShop 1.7, Shopify, and WordPress-WooCommerce. I verified the correctness of data integrated into the SALESmanago app, depending on the settings of the plugin, which included webhooks, callbacks, cookies, timeouts, etc. To test synchronization of product catalogs and induce errors in plugins, I utilized Postman. Moreover, I had the opportunity to manipulate data in the database (MySQL) through phpMyAdmin, simulating errors and checking validations.
+
+I am currently learning Python in preparation for taking my first steps in test automation.
+
+## Certifications 
+- SQL Basic (HackerRank): https://www.hackerrank.com/certificates/4372bc0f394c
+- SQL Intermediate (HackerRank): https://www.hackerrank.com/certificates/b80e914204fc
+
 
 ## Tools
 -	Jira - bug tracker
--	Slack - for communication within the team
 -	Chrome DevTools - for testing and to improve bug reports
 -	Git, Git Bash, GitHub
 -	MySQL - relational database management system
 -	Postman - testing tool for REST API
+- Testlink, TestRail
+- Pingdom- to monitor site’s uptime and performance
 
 
 ## Blogs I read
